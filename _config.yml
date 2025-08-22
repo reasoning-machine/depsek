@@ -9,12 +9,12 @@ include:
 url: https://reasoning-machine.github.io
 baseurl: /depsek
 
-title:  Machine
+title:  Reasoning Machine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
 machine:
-  name: -Machine
-  verb:
+  name: Reasoning-Machine
+  verb: Reasoning
   instructions_file: depsek_reasoning.txt
   token: depsek
   server: https://localhost:443
